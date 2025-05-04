@@ -23,7 +23,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 		),
 		externalDocs = @ExternalDocumentation(
 				description = "EazyBytes Documentation",
-				url = "https://www.eazybytes.com/swagger-ui.html"
+				url = "https://www.eazybytes.com"
 		)
 )
 public class AccountsApplication {
